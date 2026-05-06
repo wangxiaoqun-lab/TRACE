@@ -128,4 +128,7 @@ Submit with:
 sbatch sbatch_main_mappings.sh
 ```
 
+
 ## Citation
+
+If you use this repository in your work, please cite the corresponding paper or project release for TRACE when available.
